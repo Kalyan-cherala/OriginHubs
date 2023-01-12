@@ -1,0 +1,12 @@
+ALL LINUX COMMANDS
+
+ls to check all files
+mv used to move files
+mkdir  is used to create directory
+rm used to delete files
+rm -rf to delete files forcefully
+touch is used to create new file
+vi filename is used to edit file content
+wq! is used to save the file
+q! to exit from the file
+ls -la to check all hidden files
